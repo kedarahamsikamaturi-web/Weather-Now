@@ -8,8 +8,8 @@ A complete, modern, responsive, location-based weather dashboard built with **HT
 
 ## 🚀 Live Demo
 
-- **Live URL**: `https://<your-username>.github.io/<repository-name>/` *(Replace with your GitHub Pages link)*
-- **Repository**: `https://github.com/<your-username>/<repository-name>`
+- **Live URL**: [https://kedarahamsikamaturi-web.github.io/Weather-Now/](https://kedarahamsikamaturi-web.github.io/Weather-Now/)
+- **Repository**: [https://github.com/kedarahamsikamaturi-web/Weather-Now](https://github.com/kedarahamsikamaturi-web/Weather-Now)
 
 ---
 
